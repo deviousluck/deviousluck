@@ -1,5 +1,5 @@
 - print(" 👋 Hi, I’m @deviousluck
-- 👀 I’m interested in web dev and ethical hacking
+- 👀 I’m interested in web dev and cyber sec
 - 🌱 I’m currently learning python3 ")
 - 📫 How to reach me : amunoejakait@gmail.com
 
