@@ -1,6 +1,6 @@
 - print(" 👋 Hi, I’m @deviousluck
-- 👀 I’m interested in web dev and cyber sec
-- 🌱 I’m currently learning python3 ")
+- 👀 I’m interested in AI & Automation.
+- 🌱 I’m currently learning automation with Python")
 - 📫 How to reach me : amunoejakait@gmail.com
 
 <!---
